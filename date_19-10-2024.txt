@@ -1,9 +1,7 @@
 01:50;MotoGP;G.P. Australia (Phillip Island);Clasificación;DAZN (Regístrate);MotoGP Videopass;DAZN 1 (M70);DAZN 1 Bar (Movistar-148);
 03:00;Velada Peso Ligero;J. Pagan;H. Rhodes;DAZN (Regístrate);DAZN App Gratis (Regístrate);
 03:50;Moto3;G.P. Australia (Phillip Island);Clasificación;DAZN (Regístrate);MotoGP Videopass;DAZN 1 (M70);DAZN 1 Bar (Movistar-148);
-04:00;WTA Torneo de Osaka Semifinal 1 WTA 250;S. Lamens;D. Parry;WTA TV;DAZN (Regístrate);DAZN 2 (M71);
 04:45;Moto2;G.P. Australia (Phillip Island);Clasificación;DAZN (Regístrate);MotoGP Videopass;DAZN 1 (M70);DAZN 1 Bar (Movistar-148);
-05:30;WTA Torneo de Osaka Semifinal 2 WTA 250;A. Ito;K. Birrell;WTA TV;DAZN (Regístrate);DAZN 2 (M71);
 06:00;MotoGP;G.P. Australia (Phillip Island);Sprint;DAZN (Regístrate);MotoGP Videopass;DAZN 1 (M70);DAZN 1 Bar (Movistar-148);
 07:45;Tour of Guangxi;Etapa 5;Yizhou › Nongla (165,8 km);MAX;
 07:58;WRC Rally;Rally de Europa Central;SS9 › SS14;DAZN (Regístrate);
