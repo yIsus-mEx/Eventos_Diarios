@@ -32,7 +32,7 @@
 20:30;Euroliga Liga Regular;Barça Basket;ASVEL Lyon-Villeurbanne;Movistar Plus+ (M7);M+ Deportes (63);
 20:30;Fórmula 1;G.P. México (Ciudad de México);Libres 1;DAZN (Regístrate);DAZN F1 (M69);
 20:45;Euroliga Liga Regular;FC Bayern Basketball;Olympiacos Piraeus;M+ Deportes 6 (193);
-20:45;Primera FEB Liga Regular;TAU Castelló;GA Cantabria;LaLiga+ Plus;Marca.com;
+20:45;Primera FEB Liga Regular;TAU Castelló;GA Cantabria;LaLiga+ Plus;Marca.com;LaLiga+ TV (Orange 122);LALIGA+ YouTube;
 20:45;Primera FEB Liga Regular;UEMC RV Baloncesto;Monbus Obradoiro;LaLiga+ Plus;
 21:00;La Liga EA Sports;Espanyol;Sevilla FC;M+ LaLiga TV (M54-O110);GolStadium Premium (acceder);GOL PLAY (Síguelo en directo);GolStadium (acceder);LaLiga TV Bar;
 21:00;Premier League;Leicester City;Nottingham Forest;DAZN (Regístrate);DAZN 1 (M70);DAZN 1 Bar (Movistar-148);
