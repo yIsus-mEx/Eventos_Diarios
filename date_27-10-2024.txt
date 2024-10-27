@@ -37,7 +37,7 @@
 18:30;La Liga EA Sports;Real Betis;At. Madrid;M+ LaLiga TV (M54-O110);Movistar Plus+ (M7);M+ LaLiga TV 2 (M57 O112);LaLiga TV Bar;
 18:30;LaLiga Hypermotion;Albacete;Sporting Gijón;LALIGA TV Hypermotion (M56 O 119);Amazon Prime Video (Prueba gratis);DAZN (Regístrate);GolStadium Premium (acceder);LaLiga TV M3;
 18:30;LaLiga Hypermotion;Huesca;UD Almería;Amazon Prime Video (Prueba gratis);DAZN (Regístrate);GolStadium Premium (acceder);LALIGA TV Hypermotion 2 (M59 O120);LaLiga TV M2;
-18:30;Liga Endesa Liga Regular;Unicaja Málaga;Barça Basket;Movistar Plus+ (M7);M+ #Vamos Bar (304);M+ Deportes (63);
+18:30;Liga Endesa Liga Regular;Unicaja Málaga;Barça Basket;M+ #Vamos Bar (304);M+ Vamos (8 y 53);Movistar+ Lite;M+ Deportes (63);
 18:30;Primera FEB Liga Regular;Movistar Estudiantes;CB Zamora;LaLiga+ Plus;M+ Deportes 5 (192);
 20:30;NASCAR Cup Series;Homestead-Miami Speedway;Playoffs - Round of 8;DAZN (Regístrate);
 20:30;NBA Liga Regular;Indiana Pacers;Philadelphia 76ers;M+ Vamos (8 y 53);M+ #Vamos Bar (304);Movistar+ Lite;Movistar Plus+ 2 (M176);M+ Deportes 4 (191);
