@@ -30,11 +30,11 @@
 16:00;Campeonato del Mundo Fase de grupos;Paraguay;EAU;International Padel Federation YouTube;Red Bull TV;
 16:00;Campeonato del Mundo Fase de grupos;Portugal;Holanda;International Padel Federation YouTube;Red Bull TV;
 18:10;Masters París 1ª Ronda;F. Fognini;A. Bublik;ATP Tennis TV;M+ Deportes 2 (64);
-19:05;Masters París 1ª Ronda;S. Tsitsipas;R. Carballés;ATP Tennis TV;M+ Vamos (8 y 53);M+ #Vamos Bar (304);Movistar+ Lite;
-19:35;Masters París 1ª Ronda;N. Jarry;L. Sonego;ATP Tennis TV;M+ Deportes 2 (64);
+19:10;Masters París 1ª Ronda;S. Tsitsipas;R. Carballés;ATP Tennis TV;M+ Vamos (8 y 53);M+ #Vamos Bar (304);Movistar+ Lite;
+19:55;Masters París 1ª Ronda;N. Jarry;L. Sonego;ATP Tennis TV;M+ Deportes 2 (64);
 20:00;BBL Liga Regular;Telekom Baskets Bonn;MHP RIESEN Ludwigsburg;LaLiga+ Plus;
 20:30;LaLiga Hypermotion;Racing Ferrol;CD Tenerife;LALIGA TV Hypermotion (M56 O 119);Amazon Prime Video (Prueba gratis);DAZN (Regístrate);GolStadium Premium (acceder);LaLiga TV M2;
-20:30;Masters París 1ª Ronda;A. Mannarino;T. Paul;ATP Tennis TV;M+ Deportes 2 (64);
+20:40;Masters París 1ª Ronda;A. Mannarino;T. Paul;ATP Tennis TV;M+ Deportes 2 (64);
 21:00;La Liga EA Sports;Mallorca;Athletic Club;M+ LaLiga TV (M54-O110);LaLiga TV Bar;
 21:00;WTA Torneo de Mérida 1ª Ronda;N. Parrizas Díaz;A. Li;WTA TV;
 22:30;WTA Torneo de Mérida 1ª Ronda;T. Maria;N. Stojanovic;WTA TV;
