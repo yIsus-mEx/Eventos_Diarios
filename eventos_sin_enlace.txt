@@ -1,12 +1,11 @@
 00:30;NBA Liga Regular;Minnesota Timberwolves;Dallas Mavericks;NBA League Pass;
 02:00;NBA Liga Regular;Utah Jazz;Sacramento Kings;NBA League Pass;
 03:00;NBA Liga Regular;Golden State Warriors;New Orleans Pelicans;NBA League Pass;
-05:00;WTA Torneo de Jiujiang 2ª Ronda;M. Bouzkova;X. Yao;WTA TV;
-06:30;WTA Torneo de Jiujiang 2ª Ronda;E. Pridankina;K. Rakhimova;WTA TV;
-07:00;WTA Torneo de Hong Kong 2ª Ronda;Y. Yuan;N. Hibino;WTA TV;Tennis Channel (Orange 123);
-08:30;WTA Torneo de Hong Kong 2ª Ronda;Xi. Wang;K. Boulter;WTA TV;Tennis Channel (Orange 123);
-10:00;WTA Torneo de Jiujiang 2ª Ronda;M. Sawangkaew;S. Zheng;WTA TV;
-11:30;WTA Torneo de Hong Kong 2ª Ronda;D. Shnaider;P. Hon;WTA TV;Tennis Channel (Orange 123);
+05:10;WTA Torneo de Jiujiang 2ª Ronda;M. Bouzkova;X. Yao;WTA TV;
+06:50;WTA Torneo de Jiujiang 2ª Ronda;E. Pridankina;K. Rakhimova;WTA TV;
+07:10;WTA Torneo de Hong Kong 2ª Ronda;Y. Yuan;N. Hibino;WTA TV;Tennis Channel (Orange 123);
+10:10;WTA Torneo de Hong Kong 2ª Ronda;Xi. Wang;K. Boulter;WTA TV;Tennis Channel (Orange 123);
+11:20;WTA Torneo de Jiujiang 2ª Ronda;M. Sawangkaew;S. Zheng;WTA TV;
 12:00;Mundial Femenino Fase de grupos;Argentina;Portugal;International Padel Federation YouTube;Red Bull TV;
 12:00;Mundial Femenino Fase de grupos;Brasil;Chile;International Padel Federation YouTube;Red Bull TV;
 12:00;Mundial Femenino Fase de grupos;Bélgica;Francia;International Padel Federation YouTube;Red Bull TV;
@@ -15,6 +14,7 @@
 12:00;Mundial Femenino Fase de grupos;Holanda;Dinamarca;International Padel Federation YouTube;Red Bull TV;
 12:00;Mundial Femenino Fase de grupos;Italia;Suecia;International Padel Federation YouTube;Red Bull TV;
 12:00;Mundial Femenino Fase de grupos;Uruguay;Japón;International Padel Federation YouTube;Red Bull TV;
+12:40;WTA Torneo de Hong Kong 2ª Ronda;D. Shnaider;P. Hon;WTA TV;Tennis Channel (Orange 123);
 16:00;Campeonato del Mundo Fase de grupos;Argentina;Bélgica;International Padel Federation YouTube;Red Bull TV;
 16:00;Campeonato del Mundo Fase de grupos;España;Paraguay;International Padel Federation YouTube;Red Bull TV;
 16:00;Campeonato del Mundo Fase de grupos;Francia;Chile;International Padel Federation YouTube;Red Bull TV;
@@ -53,7 +53,6 @@
 18:30;WTA Torneo de Mérida 1ª Ronda;S. Sorribes;AS. Sánchez;WTA TV;
 19:00;Copa del Rey 1ª Ronda;CD Ibiza Islas Pitiusas;Nástic Tarragona;estilo.css eventos.sh generador_html.sh index.html SIN TV EN DIRECTO *;
 19:00;Copa del Rey 1ª Ronda;UE Olot;Córdoba;estilo.css eventos.sh generador_html.sh index.html SIN TV EN DIRECTO *;
-19:00;Copa del Rey 1ª Ronda;Xerez;AD Ceuta;estilo.css eventos.sh generador_html.sh index.html SIN TV EN DIRECTO *;
 19:00;Eurocup Women;BC Constanta;Peli-Karhut Basketball;FIBA YouTube;
 19:00;Eurocup Women;Gorzów Basketball;Levhartice Chomutov;FIBA YouTube;
 19:00;FIBA Europe Cup;BC Trepca;JDA Dijon;FIBA YouTube;
@@ -91,6 +90,7 @@
 20:30;FIBA Europe Cup;Caledonia Gladiators;MHP RIESEN Ludwigsburg;FIBA YouTube;
 20:30;FIBA Europe Cup;Dinamo Sassari;Sporting CP CB;FIBA YouTube;
 20:45;Basketball Champions League Liga Regular;BAXI Manresa;NINERS Chemnitz;DAZN (Regístrate);Esport3 (Cataluña);
+20:45;Eurocup Liga Regular;Valencia Basket;Lietkabelis Panevezys;APLAZADO;
 21:00;Copa del Rey 1ª Ronda;UD Sanse;UD Almería;estilo.css eventos.sh generador_html.sh index.html SIN TV EN DIRECTO *;
 21:00;Copa del Rey 1ª Ronda;Águilas FC;CD Castellón;estilo.css eventos.sh generador_html.sh index.html SIN TV EN DIRECTO *;
 21:30;Copa del Rey 1ª Ronda;CD Atlético Paso;Eldense;RTVC.es;
