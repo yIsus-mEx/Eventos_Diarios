@@ -1,3 +1,4 @@
+00:30;NBA Liga Regular;Brooklyn Nets;Denver Nuggets;M+ Deportes (63);
 00:30;NBA Liga Regular;Minnesota Timberwolves;Dallas Mavericks;NBA League Pass;
 02:00;NBA Liga Regular;Utah Jazz;Sacramento Kings;NBA League Pass;
 03:00;NBA Liga Regular;Golden State Warriors;New Orleans Pelicans;NBA League Pass;
@@ -6,6 +7,8 @@
 07:00;WTA Torneo de Hong Kong 2ª Ronda;Y. Yuan;N. Hibino;WTA TV;Tennis Channel (Orange 123);
 08:30;WTA Torneo de Hong Kong 2ª Ronda;Xi. Wang;K. Boulter;WTA TV;Tennis Channel (Orange 123);
 10:00;WTA Torneo de Jiujiang 2ª Ronda;M. Sawangkaew;S. Zheng;WTA TV;
+11:00;Lanzarote Open;2ª Ronda;A1 Padel;DAZN (Regístrate);DAZN App Gratis (Regístrate);LaLiga+;LaLiga+ Plus;DAZN 2 (M71);DAZN 2 Bar (Movistar-149);MAX;PD;Campeonato del Mundo Fase de grupos;España;Paraguay;International Padel Federation YouTube;Red Bull TV;PD;Mundial Femenino Fase de grupos;España;Alemania;International Padel Federation YouTube;Red Bull TV;
+11:00;Masters París;2ª Ronda;ATP Masters 1000;ATP Tennis TV;M+ Deportes 2 (64);M+ Deportes 4 (191);
 11:30;WTA Torneo de Hong Kong 2ª Ronda;D. Shnaider;P. Hon;WTA TV;Tennis Channel (Orange 123);
 16:00;FIBA Europe Cup;BC Sabah;Spirou Charleroi;FIBA YouTube;
 17:00;Eurocup Women Liga Regular;Crvena Zvezda MTS Belgrade;IDK Euskotren;FIBA YouTube;ETB4 (País Vasco);
@@ -36,10 +39,14 @@
 18:30;FIBA Europe Cup;Keravnos BC;Tofas Bursa;FIBA YouTube;
 18:30;WTA Torneo de Mérida 1ª Ronda;S. Sorribes;AS. Sánchez;WTA TV;
 19:00;Copa del Rey 1ª Ronda;CD Ibiza Islas Pitiusas;Nástic Tarragona;Canal por confirmar;
+19:00;Copa del Rey 1ª Ronda;Chiclana CF;Osasuna;M+ LaLiga TV 3 (M167 O270);LaLiga TV M4;
+19:00;Copa del Rey 1ª Ronda;Ciudad de Lucena;Leganés;M+ LaLiga TV 4 (M168 O271);
+19:00;Copa del Rey 1ª Ronda;Las Rozas;Sevilla FC;Teledeporte;RTVE Play;
 19:00;Copa del Rey 1ª Ronda;UE Olot;Córdoba;Canal por confirmar;
 19:00;Copa del Rey 1ª Ronda;Xerez;AD Ceuta;Canal por confirmar;
 19:00;Eurocup Women;BC Constanta;Peli-Karhut Basketball;FIBA YouTube;
 19:00;Eurocup Women;Gorzów Basketball;Levhartice Chomutov;FIBA YouTube;
+19:00;Euroliga Liga Regular;Zalgiris Kaunas;Crvena Zvezda MTS Belgrade;M+ Deportes 6 (193);
 19:00;FIBA Europe Cup;BC Trepca;JDA Dijon;FIBA YouTube;
 19:00;FIBA Europe Cup;Norrköping Dolphins;Maroussi BC;FIBA YouTube;
 19:00;FIBA Europe Cup;PGE Spojnia Stargard;CSM Oradea;FIBA YouTube;
@@ -68,6 +75,7 @@
 20:00;FIBA Europe Cup;Telenet Giants Antwerp;BC Constanta;FIBA YouTube;
 20:00;WTA Torneo de Mérida 1ª Ronda;R. Zarazúa;A. Urhobo;WTA TV;
 20:00;WTA Torneo de Mérida;2ª Ronda;WTA 250;WTA TV;
+20:15;Euroliga Liga Regular;Panathinaikos BC;ASVEL Lyon-Villeurbanne;M+ Deportes 5 (192);
 20:30;Copa del Rey 1ª Ronda;CD Coria;Elche;Canal por confirmar;
 20:30;Copa del Rey 1ª Ronda;Cacereño;G. Segoviana;Canal por confirmar;
 20:30;Copa del Rey 1ª Ronda;Conquense;UD Ibiza;Canal por confirmar;
@@ -77,6 +85,11 @@
 20:30;FIBA Europe Cup;Caledonia Gladiators;MHP RIESEN Ludwigsburg;FIBA YouTube;
 20:30;FIBA Europe Cup;Dinamo Sassari;Sporting CP CB;FIBA YouTube;
 20:45;Basketball Champions League Liga Regular;BAXI Manresa;NINERS Chemnitz;DAZN (Regístrate);Esport3 (Cataluña);
+20:45;Eurocup Liga Regular;Valencia Basket;Lietkabelis Panevezys;M+ Deportes (63);
+20:45;Euroliga Liga Regular;BC Partizan Beograd;AS Monaco Basket;M+ Deportes 3 (65);
+21:00;Copa del Rey 1ª Ronda;CD Extremadura 1924;Girona;M+ LaLiga TV (M54-O110);LaLiga TV M2;
+21:00;Copa del Rey 1ª Ronda;Parla Escuela;Valencia CF;M+ Copa del Rey (M52 O107);LaLiga TV Bar;
+21:00;Copa del Rey 1ª Ronda;UD San Pedro;Celta;M+ LaLiga TV 2 (M57 O112);LaLiga TV M3;
 21:00;Copa del Rey 1ª Ronda;UD Sanse;UD Almería;Canal por confirmar;
 21:00;Copa del Rey 1ª Ronda;Águilas FC;CD Castellón;Canal por confirmar;
 21:30;Copa del Rey 1ª Ronda;CD Atlético Paso;Eldense;RTVC.es;
