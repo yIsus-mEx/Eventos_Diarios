@@ -23,7 +23,7 @@
 16:00;Campeonato del Mundo 1/4 de Final;España;Brasil;International Padel Federation YouTube;Red Bull TV;
 16:00;Campeonato del Mundo 1/4 de Final;Francia;Italia;International Padel Federation YouTube;Red Bull TV;
 16:00;Campeonato del Mundo 1/4 de Final;Portugal;EAU;International Padel Federation YouTube;Red Bull TV;
-17:30;Masters París 3ª Ronda;A. Cazaux;H. Rune;ATP Tennis TV;
+18:45;Masters París 3ª Ronda;A. Cazaux;H. Rune;ATP Tennis TV;
 19:00;Copa del Rey 1ª Ronda;UD Barbastro;Amorebieta;Aragón TV;
 19:00;FIBA Europe Cup;Patrioti Levice;Anorthosis Famagusta BC;FIBA YouTube;
 20:00;Copa del Rey 1ª Ronda;Real Ávila;Real Oviedo;TPA 1 (Asturias);
