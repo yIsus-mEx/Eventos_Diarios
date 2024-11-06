@@ -15,9 +15,9 @@
 18:30;Basketball Champions League Liga Regular;KK Igokea;Hapoel Holon;DAZN (Regístrate);
 18:30;Basketball Champions League Liga Regular;Peristeri BC;Manisa BBSK;DAZN (Regístrate);
 18:30;Basketball Champions League Liga Regular;S. Oliver Baskets;Nanterre 92;DAZN (Regístrate);
+18:50;Torneo de Metz 2ª Ronda;B. Bonzi;C. Ruud;ATP Tennis TV;
 19:00;Copa del Rey 1ª Ronda;Xerez;AD Ceuta;Canal por confirmar;
 19:00;FIBA Europe Cup;Anorthosis Famagusta BC;Frutti Extra Bursaspor;FIBA YouTube;
-19:00;Torneo de Metz 2ª Ronda;B. Bonzi;C. Ruud;ATP Tennis TV;
 19:30;FIBA Europe Cup;BC Constanta;Fribourg Olympic;FIBA YouTube;
 19:30;FIBA Europe Cup;Maroussi BC;BC Sabah;FIBA YouTube;
 20:00;Amistoso;Portugal;España;RTVE Play;
@@ -28,7 +28,7 @@
 20:00;FIBA Europe Cup;BC Braunschweig;Keravnos BC;FIBA YouTube;
 20:00;FIBA Europe Cup;JDA Dijon;Caledonia Gladiators;FIBA YouTube;
 20:00;Lega Serie A Liga Regular;Virtus Bologna;Derthona Basket;DAZN (Regístrate);DAZN App Gratis (Regístrate);
+20:25;Torneo de Metz 2ª Ronda;Y. Bu;J. De Jong;ATP Tennis TV;
 20:30;FIBA Europe Cup;Cholet Basket;Telenet Giants Antwerp;FIBA YouTube;
 20:30;FIBA Europe Cup;Spirou Charleroi;Norrköping Dolphins;FIBA YouTube;
-20:30;Torneo de Metz 2ª Ronda;Y. Bu;J. De Jong;ATP Tennis TV;
 21:00;FIBA Europe Cup;FC Porto CB;PAOK Salónica;FIBA YouTube;
